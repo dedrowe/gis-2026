@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2002050 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.4734630" minlon="49.8413900" maxlat="53.4740330" maxlon="49.8436970"/>
+ <node id="13244585234" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4735550" lon="49.8420578"/>
+ <node id="13244585235" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4735553" lon="49.8421464"/>
+ <node id="13244585236" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4734736" lon="49.8421472"/>
+ <node id="13244585237" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867" lat="53.4734733" lon="49.8420586"/>
+ <node id="13630210935" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735484" lon="49.8430626"/>
+ <node id="13630210936" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4734879" lon="49.8430595"/>
+ <node id="13630210937" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4734863" lon="49.8431457"/>
+ <node id="13630210938" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735469" lon="49.8431488"/>
+ <node id="13630210939" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4736879" lon="49.8436671"/>
+ <node id="13630210940" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4737229" lon="49.8436649"/>
+ <node id="13630210941" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4737213" lon="49.8435958"/>
+ <node id="13630210942" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4736863" lon="49.8435980"/>
+ <node id="13630210943" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739128" lon="49.8430940"/>
+ <node id="13630210944" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739086" lon="49.8432421"/>
+ <node id="13630210945" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738565" lon="49.8432380"/>
+ <node id="13630210946" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738583" lon="49.8431766"/>
+ <node id="13630210947" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738698" lon="49.8431775"/>
+ <node id="13630210948" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738723" lon="49.8430908"/>
+ <node id="13630210949" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739602" lon="49.8428230"/>
+ <node id="13630210950" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738996" lon="49.8428186"/>
+ <node id="13630210951" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738974" lon="49.8429045"/>
+ <node id="13630210952" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739579" lon="49.8429088"/>
+ <node id="13630210953" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739488" lon="49.8425583"/>
+ <node id="13630210954" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738853" lon="49.8425530"/>
+ <node id="13630210955" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4738809" lon="49.8427040"/>
+ <node id="13630210956" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739444" lon="49.8427092"/>
+ <node id="13630210957" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735447" lon="49.8423432"/>
+ <node id="13630210958" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4734864" lon="49.8423394"/>
+ <node id="13630210959" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4734841" lon="49.8424381"/>
+ <node id="13630210960" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735424" lon="49.8424419"/>
+ <node id="13630210961" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735709" lon="49.8416966"/>
+ <node id="13630210962" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735063" lon="49.8416937"/>
+ <node id="13630210963" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735052" lon="49.8417590"/>
+ <node id="13630210964" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735699" lon="49.8417619"/>
+ <node id="13630210965" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735093" lon="49.8414845"/>
+ <node id="13630210966" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735550" lon="49.8414871"/>
+ <node id="13630210967" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735541" lon="49.8415344"/>
+ <node id="13630210968" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735798" lon="49.8415359"/>
+ <node id="13630210969" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735822" lon="49.8414178"/>
+ <node id="13630210970" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735108" lon="49.8414138"/>
+ <node id="13630210971" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4740116" lon="49.8414825"/>
+ <node id="13630210972" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739418" lon="49.8414763"/>
+ <node id="13630210973" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4739395" lon="49.8415490"/>
+ <node id="13630210974" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4740093" lon="49.8415553"/>
+ <node id="13630210975" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735355" lon="49.8432224"/>
+ <node id="13630210976" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4734726" lon="49.8432210"/>
+ <node id="13630210977" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4734719" lon="49.8433130"/>
+ <node id="13630210978" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697" lat="53.4735348" lon="49.8433143"/>
+ <way id="1443335827" visible="true" version="1" changeset="173510023" timestamp="2025-10-19T20:45:40Z" user="Ozon OSM15" uid="23041867">
+  <nd ref="13244585234"/>
+  <nd ref="13244585235"/>
+  <nd ref="13244585236"/>
+  <nd ref="13244585237"/>
+  <nd ref="13244585234"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="1486898603" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210935"/>
+  <nd ref="13630210936"/>
+  <nd ref="13630210937"/>
+  <nd ref="13630210938"/>
+  <nd ref="13630210935"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="664"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898604" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210939"/>
+  <nd ref="13630210940"/>
+  <nd ref="13630210941"/>
+  <nd ref="13630210942"/>
+  <nd ref="13630210939"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="662"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898605" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210943"/>
+  <nd ref="13630210944"/>
+  <nd ref="13630210945"/>
+  <nd ref="13630210946"/>
+  <nd ref="13630210947"/>
+  <nd ref="13630210948"/>
+  <nd ref="13630210943"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="637"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898606" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210949"/>
+  <nd ref="13630210950"/>
+  <nd ref="13630210951"/>
+  <nd ref="13630210952"/>
+  <nd ref="13630210949"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="636"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898607" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210953"/>
+  <nd ref="13630210954"/>
+  <nd ref="13630210955"/>
+  <nd ref="13630210956"/>
+  <nd ref="13630210953"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="635"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898608" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210957"/>
+  <nd ref="13630210958"/>
+  <nd ref="13630210959"/>
+  <nd ref="13630210960"/>
+  <nd ref="13630210957"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="665"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898609" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210961"/>
+  <nd ref="13630210962"/>
+  <nd ref="13630210963"/>
+  <nd ref="13630210964"/>
+  <nd ref="13630210961"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="668"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898610" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210965"/>
+  <nd ref="13630210966"/>
+  <nd ref="13630210967"/>
+  <nd ref="13630210968"/>
+  <nd ref="13630210969"/>
+  <nd ref="13630210970"/>
+  <nd ref="13630210965"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="669"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898611" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210971"/>
+  <nd ref="13630210972"/>
+  <nd ref="13630210973"/>
+  <nd ref="13630210974"/>
+  <nd ref="13630210971"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="631"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="1486898612" visible="true" version="1" changeset="179593449" timestamp="2026-03-09T16:22:31Z" user="dedrowe" uid="23918697">
+  <nd ref="13630210975"/>
+  <nd ref="13630210976"/>
+  <nd ref="13630210977"/>
+  <nd ref="13630210978"/>
+  <nd ref="13630210975"/>
+  <tag k="addr:city" v="Самара"/>
+  <tag k="addr:housenumber" v="663"/>
+  <tag k="addr:place" v="СНТ Жигули"/>
+  <tag k="addr:postcode" v="443902"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+</osm>

@@ -1,0 +1,511 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/1443335827",
+            "properties": {
+                "timestamp": "2025-10-19T20:45:40Z",
+                "version": "1",
+                "changeset": "173510023",
+                "user": "Ozon OSM15",
+                "uid": "23041867",
+                "building": "yes",
+                "id": "way/1443335827"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8420578,
+                            53.473555
+                        ],
+                        [
+                            49.8420586,
+                            53.4734733
+                        ],
+                        [
+                            49.8421472,
+                            53.4734736
+                        ],
+                        [
+                            49.8421464,
+                            53.4735553
+                        ],
+                        [
+                            49.8420578,
+                            53.473555
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898603",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "664",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898603"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8430626,
+                            53.4735484
+                        ],
+                        [
+                            49.8430595,
+                            53.4734879
+                        ],
+                        [
+                            49.8431457,
+                            53.4734863
+                        ],
+                        [
+                            49.8431488,
+                            53.4735469
+                        ],
+                        [
+                            49.8430626,
+                            53.4735484
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898604",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "662",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898604"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8436671,
+                            53.4736879
+                        ],
+                        [
+                            49.8436649,
+                            53.4737229
+                        ],
+                        [
+                            49.8435958,
+                            53.4737213
+                        ],
+                        [
+                            49.843598,
+                            53.4736863
+                        ],
+                        [
+                            49.8436671,
+                            53.4736879
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898605",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "637",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898605"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.843094,
+                            53.4739128
+                        ],
+                        [
+                            49.8430908,
+                            53.4738723
+                        ],
+                        [
+                            49.8431775,
+                            53.4738698
+                        ],
+                        [
+                            49.8431766,
+                            53.4738583
+                        ],
+                        [
+                            49.843238,
+                            53.4738565
+                        ],
+                        [
+                            49.8432421,
+                            53.4739086
+                        ],
+                        [
+                            49.843094,
+                            53.4739128
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898606",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "636",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898606"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.842823,
+                            53.4739602
+                        ],
+                        [
+                            49.8428186,
+                            53.4738996
+                        ],
+                        [
+                            49.8429045,
+                            53.4738974
+                        ],
+                        [
+                            49.8429088,
+                            53.4739579
+                        ],
+                        [
+                            49.842823,
+                            53.4739602
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898607",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "635",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898607"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8425583,
+                            53.4739488
+                        ],
+                        [
+                            49.842553,
+                            53.4738853
+                        ],
+                        [
+                            49.842704,
+                            53.4738809
+                        ],
+                        [
+                            49.8427092,
+                            53.4739444
+                        ],
+                        [
+                            49.8425583,
+                            53.4739488
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898608",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "665",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898608"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8423432,
+                            53.4735447
+                        ],
+                        [
+                            49.8423394,
+                            53.4734864
+                        ],
+                        [
+                            49.8424381,
+                            53.4734841
+                        ],
+                        [
+                            49.8424419,
+                            53.4735424
+                        ],
+                        [
+                            49.8423432,
+                            53.4735447
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898609",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "668",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898609"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8416966,
+                            53.4735709
+                        ],
+                        [
+                            49.8416937,
+                            53.4735063
+                        ],
+                        [
+                            49.841759,
+                            53.4735052
+                        ],
+                        [
+                            49.8417619,
+                            53.4735699
+                        ],
+                        [
+                            49.8416966,
+                            53.4735709
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898610",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "669",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898610"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8414845,
+                            53.4735093
+                        ],
+                        [
+                            49.8414871,
+                            53.473555
+                        ],
+                        [
+                            49.8415344,
+                            53.4735541
+                        ],
+                        [
+                            49.8415359,
+                            53.4735798
+                        ],
+                        [
+                            49.8414178,
+                            53.4735822
+                        ],
+                        [
+                            49.8414138,
+                            53.4735108
+                        ],
+                        [
+                            49.8414845,
+                            53.4735093
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898611",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "631",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898611"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8414825,
+                            53.4740116
+                        ],
+                        [
+                            49.8414763,
+                            53.4739418
+                        ],
+                        [
+                            49.841549,
+                            53.4739395
+                        ],
+                        [
+                            49.8415553,
+                            53.4740093
+                        ],
+                        [
+                            49.8414825,
+                            53.4740116
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/1486898612",
+            "properties": {
+                "timestamp": "2026-03-09T16:22:31Z",
+                "version": "1",
+                "changeset": "179593449",
+                "user": "dedrowe",
+                "uid": "23918697",
+                "addr:city": "Самара",
+                "addr:housenumber": "663",
+                "addr:place": "СНТ Жигули",
+                "addr:postcode": "443902",
+                "building": "house",
+                "building:levels": "1",
+                "id": "way/1486898612"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            49.8432224,
+                            53.4735355
+                        ],
+                        [
+                            49.843221,
+                            53.4734726
+                        ],
+                        [
+                            49.843313,
+                            53.4734719
+                        ],
+                        [
+                            49.8433143,
+                            53.4735348
+                        ],
+                        [
+                            49.8432224,
+                            53.4735355
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
