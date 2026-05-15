@@ -1,0 +1,50 @@
+{
+  "version": 8,
+  "sources": {
+    "overture": {
+      "type": "geojson",
+      "data": "/overture.geojson"
+    }
+  },
+  "layers": [
+    {
+      "id": "my",
+      "type": "fill",
+      "source": "overture",
+      "filter": ["==", "source_type", "my"],
+      "paint": {
+        "fill-color": "#ff0000",
+        "fill-opacity": 0.5
+      }
+    },
+    {
+      "id": "osm",
+      "type": "fill",
+      "source": "overture",
+      "filter": ["==", "source_type", "osm"],
+      "paint": {
+        "fill-color": "#00ff00",
+        "fill-opacity": 0.5
+      }
+    },
+    {
+      "id": "ml",
+      "type": "fill",
+      "source": "overture",
+      "filter": ["==", "source_type", "ml"],
+      "paint": {
+        "fill-color": "#0000ff",
+        "fill-opacity": 0.5
+      }
+    },
+    {
+      "id": "borders",
+      "type": "line",
+      "source": "overture",
+      "paint": {
+        "line-color": "#000000",
+        "line-width": 2
+      }
+    }
+  ]
+}
